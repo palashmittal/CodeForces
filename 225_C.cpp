@@ -1,19 +1,4 @@
-#include <iostream>
-#include <algorithm>
-#include <stdlib.h>
-#include <string.h>
-#include <string>
-#include <vector>
-#include <sstream>
-#include <queue>
-#include <math.h>
-#include <time.h>
-#include <set>
-#include <utility>
-#include <map>
-#include <stdio.h>
-#include <assert.h>
-#include <limits.h>
+#include<bits/stdc++.h>
  
 using namespace std;
 
