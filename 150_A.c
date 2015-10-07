@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+	int n,k;
+	scanf("%d%d",&n,&k);
+	int i=0;
+	int a[k];
+	for(i=0;i<k;i++)
+	{
+		scanf("%d",&a[i]);
+	}
+	
+
+
+	
+}
